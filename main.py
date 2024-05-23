@@ -148,10 +148,10 @@ if selected == "Benchmark":
 
         end_time = time.time()
 
-        avg_response_time = (end_time-start_time) / int(noOfSamples)
+        qps = int(noOfSamples) / (end_time-start_time)
 
-        st.write(f"QPS for {num_samples} samples: {avg_response_time:.2f} seconds")
-        return avg_response_time
+        st.write(f"QPS for {num_samples} samples: {qps:.2f}")
+        return qps
 
     if not st.session_state.button_clicked:
         if st.button("GO!", key="go_button"):
