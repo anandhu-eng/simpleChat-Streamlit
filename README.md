@@ -46,7 +46,10 @@ Note that the video is fast forwarded to eliminate lag in loading and processing
 
 
 
-https://github.com/anandhu-eng/simpleChat-Streamlit/assets/71482562/8af53698-59dc-49a7-8eae-711e84834b64
+
+
+
+https://github.com/anandhu-eng/simpleChat-Streamlit/assets/71482562/308fb9c6-62a8-41b6-99ba-69eadf9e21c0
 
 
 
