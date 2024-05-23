@@ -33,8 +33,21 @@ Unified interface where you can run Benchmarking on any deployed text based Larg
 
 ## Outputs:
 
+### Chat Output
+
 ![image](https://github.com/anandhu-eng/simpleChat-Streamlit/assets/71482562/29bff483-c2a3-489c-8815-1a21fae36641)
 
 ![image](https://github.com/anandhu-eng/simpleChat-Streamlit/assets/71482562/80b3718e-3e52-419f-9a17-4bbd9ba0d07f)
+
+### Benchmarking Output
+
+Note that the video is fast forwarded to eliminate lag in loading and processing period.
+
+
+
+
+https://github.com/anandhu-eng/simpleChat-Streamlit/assets/71482562/8af53698-59dc-49a7-8eae-711e84834b64
+
+
 
 
