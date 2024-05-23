@@ -1,6 +1,25 @@
 # simpleChat-Streamlit
 
-Simple chat interface to run inference on any text based Large Language Model deployed in a server over the network. 
+Unified interface where you can run Benchmarking on any deployed text based Large Language Model or run chat service.
+
+### Note
+
+- For benchmarking, the dataset should be json file of the format:
+```
+[
+    {
+        "input":"Prompt based on finetuned task of LLM",
+        "instruction": "Specific instruction to the model",
+        "output": "Expected output from the model"
+    },
+    {
+        ...
+    },
+    ...
+]
+```
+
+- The application is still in development, you might face glitches when reruning the benchmarks. Reloading the page is one of the option.
 
 ## Steps:
 
